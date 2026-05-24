@@ -193,7 +193,7 @@ for index, product in enumerate(products):
         )
 
         # REPLACE WITH YOUR REAL RAZORPAY LINK
-        razorpay_link = "https://rzp.io/l/YOUR_PAYMENT_LINK"
+        razorpay_link = "https://rzp.io/rzp/Ru34I3K"
 
         st.markdown(
             f"""
